@@ -22,7 +22,7 @@
 .card:has(img) {
   padding: 0;
   .content {
-    margin: 1rem; /* Både margin og padding virker */
+    padding: 1rem;
   }
 }
 
